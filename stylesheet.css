@@ -1,11 +1,17 @@
 body {
   background-color: forestgreen;
+  font-family: arial;
 }
 
 h1 {
   color: white;
+  text-align: center;
 }
 
 h2 {
   color: white;
+}
+
+.button {
+  background-color: greenyellow;
 }
